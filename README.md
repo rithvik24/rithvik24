@@ -4,7 +4,7 @@
 - :computer: Coder, JavaScript enthusiast and an aspiring Front End Developer.
 - 🔭 I’m currently learning Node.js.
 - 🌱 Exploring new techologies to build real world **web applications**.
-- ✈ Always working on improving my problem solving skills which will help me grow more as a **software developer**.
+- ✈ Always working on improving my problem solving skills which will help me grow as a **software developer**.
 
 #### :hammer_and_wrench: Tech Stack
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
